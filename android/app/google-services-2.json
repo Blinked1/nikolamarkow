@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "325871497075",
+    "project_id": "doughnut-f9611",
+    "storage_bucket": "doughnut-f9611.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325871497075:android:70d5610b3f328cb5f31f06",
+        "android_client_info": {
+          "package_name": "com.example.app1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM0d3Zl_IRPqdFij7KvDyjZI6CkD5N1yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325871497075:android:11dc559b6d061d57f31f06",
+        "android_client_info": {
+          "package_name": "eu.gikn.schoolapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAM0d3Zl_IRPqdFij7KvDyjZI6CkD5N1yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
